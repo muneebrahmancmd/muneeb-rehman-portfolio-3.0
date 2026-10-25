@@ -1,0 +1,71 @@
+{
+  "title": "Live projects.",
+  "awards": [
+    {
+      "title": "Full-stack & AI design",
+      "from": "Netlify",
+      "site": "Portfolio 2026",
+      "link": "https://muneeb-portfolio-2026.netlify.app/"
+    },
+    {
+      "title": "Real digital systems",
+      "from": "Netlify",
+      "site": "Muna Portfolio",
+      "link": "https://muna-portfolio-2k26.netlify.app/"
+    },
+    {
+      "title": "Developer & designer",
+      "from": "Netlify",
+      "site": "Muneeb Dev",
+      "link": "https://muneeb-dev.netlify.app/"
+    },
+    {
+      "title": "Night mode developer",
+      "from": "Netlify",
+      "site": "Dev Portfolio",
+      "link": "https://muneeb-dev-portfolio.netlify.app/"
+    },
+    {
+      "title": "Monogram portfolio",
+      "from": "Netlify",
+      "site": "MR Portfolio",
+      "link": "https://muneeb-port-folio.netlify.app/"
+    },
+    {
+      "title": "Editorial portfolio",
+      "from": "Vercel",
+      "site": "Muneeb Folio",
+      "link": "https://muna-portfolio-2k26.vercel.app/"
+    },
+    {
+      "title": "CineSearch, movies & TV",
+      "from": "Netlify",
+      "site": "Muna Movie",
+      "link": "https://muna-movie.netlify.app/"
+    },
+    {
+      "title": "SpeechSter, text to speech",
+      "from": "Netlify",
+      "site": "Muna Voices",
+      "link": "https://muna-voices.netlify.app/"
+    },
+    {
+      "title": "Full-stack portfolio",
+      "from": "Netlify",
+      "site": "Muna Dev",
+      "link": "https://muna-dev2.netlify.app/"
+    },
+    {
+      "title": "Rubik's cube portfolio",
+      "from": "Netlify",
+      "site": "Portfolio 1",
+      "link": "https://muneeb-portfolio-1.netlify.app/"
+    },
+    {
+      "title": "Typographic portfolio",
+      "from": "Netlify",
+      "site": "Portfolio 3.0",
+      "link": "https://muneeb-portfoli0.netlify.app/"
+    }
+  ]
+}

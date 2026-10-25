@@ -1,0 +1,212 @@
+[
+  {
+    "slug": "portfolio-2026",
+    "title": "Portfolio<br>2026",
+    "cover": "hero.jpg",
+    "color": "#FFFFFF",
+    "year": "2026",
+    "keywords": [
+      "full-stack",
+      "ai design",
+      "portfolio"
+    ],
+    "desc": "<p>My main 2026 portfolio, bringing together full-stack web work, graphic design and AI-generated visuals in one live site.</p><p>Built to show what I make and how I think.</p>",
+    "content": [
+      {
+        "type": "vLive",
+        "src": "https://muneeb-portfolio-2026.netlify.app/"
+      },
+      {
+        "type": "vImage",
+        "src": "portfolio-2026-1.jpg"
+      },
+      {
+        "type": "vImageFull",
+        "src": "portfolio-2026-2.jpg"
+      },
+      {
+        "type": "vImage",
+        "src": "portfolio-2026-3.jpg"
+      }
+    ],
+    "credits": [
+      "<a href=\"https://muneeb-portfolio-2026.netlify.app/\" target=\"_blank\" rel=\"noopener\">Live site: Portfolio 2026</a>",
+      "Design &amp; code: Muneeb Rehman"
+    ]
+  },
+  {
+    "slug": "muna-2k26",
+    "title": "Muna<br>Portfolio",
+    "cover": "hero.jpg",
+    "color": "#FFFFFF",
+    "year": "2026",
+    "keywords": [
+      "real systems",
+      "frontend",
+      "ui design"
+    ],
+    "desc": "<p>A portfolio focused on real digital systems: clean interfaces, solid frontend work and the details that make a product feel finished.</p>",
+    "content": [
+      {
+        "type": "vLive",
+        "src": "https://muna-portfolio-2k26.netlify.app/"
+      },
+      {
+        "type": "vImage",
+        "src": "muna-2k26-1.jpg"
+      },
+      {
+        "type": "vImageFull",
+        "src": "muna-2k26-2.jpg"
+      },
+      {
+        "type": "vImage",
+        "src": "muna-2k26-3.jpg"
+      }
+    ],
+    "credits": [
+      "<a href=\"https://muna-portfolio-2k26.netlify.app/\" target=\"_blank\" rel=\"noopener\">Live site: Muna Portfolio</a>",
+      "Design &amp; code: Muneeb Rehman"
+    ]
+  },
+  {
+    "slug": "muneeb-dev",
+    "title": "Muneeb<br>Dev",
+    "cover": "hero.jpg",
+    "color": "#FFFFFF",
+    "year": "2026",
+    "keywords": [
+      "developer",
+      "designer",
+      "responsive"
+    ],
+    "desc": "<p>The developer and designer side of my work: responsive web builds, visual design and small interactions that tie them together.</p>",
+    "content": [
+      {
+        "type": "vLive",
+        "src": "https://muneeb-dev.netlify.app/"
+      },
+      {
+        "type": "vImage",
+        "src": "muneeb-dev-1.jpg"
+      },
+      {
+        "type": "vImageFull",
+        "src": "muneeb-dev-2.jpg"
+      },
+      {
+        "type": "vImage",
+        "src": "muneeb-dev-3.jpg"
+      }
+    ],
+    "credits": [
+      "<a href=\"https://muneeb-dev.netlify.app/\" target=\"_blank\" rel=\"noopener\">Live site: Muneeb Dev</a>",
+      "Design &amp; code: Muneeb Rehman"
+    ]
+  },
+  {
+    "slug": "dev-portfolio",
+    "title": "Dev<br>Portfolio",
+    "cover": "hero.jpg",
+    "color": "#FFFFFF",
+    "year": "2026",
+    "keywords": [
+      "night mode",
+      "dark ui",
+      "frontend"
+    ],
+    "desc": "<p>A night-mode portfolio for my development work: a dark interface, sharp typography and fast, modern frontend code.</p>",
+    "content": [
+      {
+        "type": "vLive",
+        "src": "https://muneeb-dev-portfolio.netlify.app/"
+      },
+      {
+        "type": "vImage",
+        "src": "dev-portfolio-1.jpg"
+      },
+      {
+        "type": "vImageFull",
+        "src": "dev-portfolio-2.jpg"
+      },
+      {
+        "type": "vImage",
+        "src": "dev-portfolio-3.jpg"
+      }
+    ],
+    "credits": [
+      "<a href=\"https://muneeb-dev-portfolio.netlify.app/\" target=\"_blank\" rel=\"noopener\">Live site: Dev Portfolio</a>",
+      "Design &amp; code: Muneeb Rehman"
+    ]
+  },
+  {
+    "slug": "mr-folio",
+    "title": "MR<br>Portfolio",
+    "cover": "hero.jpg",
+    "color": "#FFFFFF",
+    "year": "2026",
+    "keywords": [
+      "monogram",
+      "interactive",
+      "animation"
+    ],
+    "desc": "<p>A monogram-led portfolio: a bold personal mark, interactive visual details and smooth animation throughout.</p>",
+    "content": [
+      {
+        "type": "vLive",
+        "src": "https://muneeb-port-folio.netlify.app/"
+      },
+      {
+        "type": "vImage",
+        "src": "mr-folio-1.jpg"
+      },
+      {
+        "type": "vImageFull",
+        "src": "mr-folio-2.jpg"
+      },
+      {
+        "type": "vImage",
+        "src": "mr-folio-3.jpg"
+      }
+    ],
+    "credits": [
+      "<a href=\"https://muneeb-port-folio.netlify.app/\" target=\"_blank\" rel=\"noopener\">Live site: MR Portfolio</a>",
+      "Design &amp; code: Muneeb Rehman"
+    ]
+  },
+  {
+    "slug": "muneeb-folio",
+    "title": "Muneeb<br>Folio",
+    "cover": "hero.jpg",
+    "color": "#FFFFFF",
+    "year": "2026",
+    "keywords": [
+      "editorial",
+      "scroll animation",
+      "visual board"
+    ],
+    "desc": "<p>My newest portfolio, laid out like an editorial issue, with smooth scrolling, a scattered visual exploration board, selected works and contact links.</p>",
+    "content": [
+      {
+        "type": "vLive",
+        "src": "https://muna-portfolio-2k26.vercel.app/"
+      },
+      {
+        "type": "vImage",
+        "src": "muneeb-folio-1.jpg"
+      },
+      {
+        "type": "vImageFull",
+        "src": "muneeb-folio-2.jpg"
+      },
+      {
+        "type": "vImage",
+        "src": "muneeb-folio-3.jpg"
+      }
+    ],
+    "credits": [
+      "<a href=\"https://muna-portfolio-2k26.vercel.app/\" target=\"_blank\" rel=\"noopener\">Live site: Muneeb Folio</a>",
+      "Design &amp; code: Muneeb Rehman"
+    ]
+  }
+]
