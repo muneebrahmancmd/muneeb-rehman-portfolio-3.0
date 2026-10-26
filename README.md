@@ -31,10 +31,6 @@ npm run dev        # http://localhost:3000
 npm run generate   # static site in dist/
 ```
 
-## Credits
-
-Code base and design: **Romain Avalle** (https://github.com/romainavalle/romainavalle.dev), design by Simon Daufresne. Re-themed with the content of Muneeb Rehman. Please keep the credit.
-
 ## Author
 
 **Muneeb Rehman** — [GitHub](https://github.com/muneebrahmancmd) · muneebrahman500@gmail.com
